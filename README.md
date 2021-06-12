@@ -45,7 +45,8 @@
 
 ### **Python** is required for this project. if your system doesn't have python, install it from [here](https://www.python.org/)
 
-After Executing make command __bin__ directory had been genrated in the root directory of that project. In that directory put this 2 things.
+After Executing make command __bin__ directory had been genrated in the root directory of that project. In that directory put this 2 things of this project.
+
 * `images` (Directory)
 * `code.py` (File)
 
@@ -73,4 +74,4 @@ After this you have to put all jpg images to images directory and run the python
 After processing has been done, you will see two directory will genrated named as Forward and Backward in **bin** directory which will contain all diffrent types of images.
 
 
-# Thanks For Your Time
+## Thanks For Your Time
