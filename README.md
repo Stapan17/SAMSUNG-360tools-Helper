@@ -1,6 +1,6 @@
 # SAMSUNG-360tools-Helper
 
-### This is helper code of [SAMSUNG 360tools](https://github.com/Samsung/360tools).
+### This is helper code of [SAMSUNG 360tools](https://github.com/Samsung/360tools) for 360° Images/Videos.
 
 
 # Description
