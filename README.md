@@ -1,4 +1,4 @@
-# SAMSUNG - 360tools - Helper
+# SAMSUNG-360tools-Helper
 
 ### This is helper code of [SAMSUNG 360tools](https://github.com/Samsung/360tools).
 
